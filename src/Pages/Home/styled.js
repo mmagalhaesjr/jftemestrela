@@ -72,6 +72,11 @@ justify-content: center;
     color: #000000;
     padding: 10px;
     cursor: pointer;
+
+    &:hover{
+        background-color: #46df09;
+        color: #ffffff;
+    }
 }
 
 #texto{
@@ -91,6 +96,20 @@ p{
 }
 #estrela{
     width: 50px;
+}
+
+
+@media (max-width:800px) {
+
+    #imgJf{
+    width: 80%;
+    height: 30%;
+    }
+
+    p{
+        font-size: 1rem;
+       
+    }
 }
 
 `
