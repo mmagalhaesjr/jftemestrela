@@ -55,7 +55,7 @@ justify-content: center;
     animation: animar 20s linear infinite;
 }
 .caixaTexto{
-    width: 50%; 
+    width: 33,33%; 
     flex-shrink: 0;
 
     display: flex;
