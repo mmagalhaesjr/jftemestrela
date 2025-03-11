@@ -29,7 +29,7 @@ export const StyledHome = styled.main`
     }
 
     #texto {
-        width: 100vw;
+        width: 100%;
         overflow: hidden;
         margin-top: 20px;
         display: flex;
@@ -48,11 +48,11 @@ export const StyledHome = styled.main`
     }
 
     .caixaTexto {
-        width: 14%; /* 7 elementos por loop */
+        width: 33.33%; 
         flex-shrink: 0;
         display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content: space-around;
     }
 
     @keyframes animar {
@@ -98,5 +98,15 @@ export const StyledHome = styled.main`
         #botao {
             font-size: 1.2rem;
         }
+
+
+    .caixaTexto {
+        width: 50%; 
+        flex-shrink: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
     }
 `;
