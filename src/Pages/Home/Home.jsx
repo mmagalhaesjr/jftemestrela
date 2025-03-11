@@ -6,7 +6,7 @@ import estrela from '../../assets/logo.png';
 export default function Home() {
     const elementos = [];
     
-    for (let i = 0; i < 7; i++) {
+    for (let i = 0; i < 8; i++) {
         elementos.push(
             <div className="caixaTexto" key={i}>
                 <p>SUA OPORTUNIDADE DE SUCESSO!</p>
@@ -28,7 +28,7 @@ export default function Home() {
                         {elementos}
                     </div>
                 </div>
-                
+
                 <h2 id="botao">INSCRIÇÕES EM BREVE</h2>
 
             </section>
