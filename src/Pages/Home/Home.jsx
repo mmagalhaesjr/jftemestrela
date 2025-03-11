@@ -6,7 +6,7 @@ import estrela from '../../assets/logo.png';
 export default function Home() {
     const elementos = [];
     
-    for (let i = 0; i < 8; i++) {
+    for (let i = 0; i < 7; i++) {
         elementos.push(
             <div className="caixaTexto" key={i}>
                 <p>SUA OPORTUNIDADE DE SUCESSO!</p>
