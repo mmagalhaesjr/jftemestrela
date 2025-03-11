@@ -72,6 +72,7 @@ justify-content: center;
     color: #000000;
     padding: 10px;
     cursor: pointer;
+    font-size: 2rem;
 
     &:hover{
         background-color: #46df09;
@@ -109,6 +110,9 @@ p{
     p{
         font-size: 1rem;
        
+    }
+    #botao{
+        font-size:1.2rem;
     }
 }
 
