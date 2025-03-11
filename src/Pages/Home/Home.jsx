@@ -60,6 +60,22 @@ export default function Home() {
                             <img id="estrela" src={estrela} alt="img" />
                         </div>
 
+                        <div className="caixaTexto">
+                            <p>
+                                SUA OPORTUNIDADE DE SUCESSO!
+                            </p>
+
+                            <img id="estrela" src={estrela} alt="img" />
+                        </div>
+
+                        <div className="caixaTexto">
+                            <p>
+                                SUA OPORTUNIDADE DE SUCESSO!
+                            </p>
+
+                            <img id="estrela" src={estrela} alt="img" />
+                        </div>
+
 
 
 
