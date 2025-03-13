@@ -2,10 +2,11 @@ import Header from "../../components/Header/Header";
 import { StyledHome } from "./styled";
 import jf from '../../assets/jf.png';
 import estrela from '../../assets/logo.png';
+import { Link } from "react-router-dom";
 
 export default function Home() {
     const elementos = [];
-    
+
     for (let i = 0; i < 7; i++) {
         elementos.push(
             <div className="caixaTexto" key={i}>
@@ -29,7 +30,9 @@ export default function Home() {
                     </div>
                 </div>
 
-                <h2 id="botao">INSCRIÇÕES EM BREVE</h2>
+                <Link to={'/formulario'} >
+                    <h2 id="botao">INSCRIÇÕES</h2>
+                </Link>
 
             </section>
         </StyledHome>

@@ -29,8 +29,8 @@ export default function Formulario() {
                 <input type="text" name="nome" placeholder="Nome completo:" required />
                 <input type="text" name="nomeArtistico" placeholder="Nome Artístico:" />
                 <input type="text" name="nascimento" placeholder="Data de Nascimento:" required />
-                <input type="text" name="telefone" placeholder="Telefone" required />
-                <input type="text" name="email" placeholder="E-mail" required />
+                <input type="text" name="telefone" placeholder="Telefone:" required />
+                <input type="text" name="email" placeholder="E-mail:" required />
                 <input type="text" name="cidade" placeholder="Cidade:" required />
 
                 <button type="submit">ENVIAR</button>

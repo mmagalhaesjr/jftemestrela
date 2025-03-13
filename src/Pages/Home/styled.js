@@ -66,9 +66,10 @@ export const StyledHome = styled.main`
 
     #botao {
         background-color: ${verde};
-        padding: 10px;
+        padding: 20px;
         cursor: pointer;
         font-size: 2rem;
+        border-radius: 50px;
         &:hover {
             background-color: #46df09;
             color: #ffffff;

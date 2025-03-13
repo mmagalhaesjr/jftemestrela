@@ -16,10 +16,10 @@ export default function Confirmacao() {
                 </p>
 
                 <p>
-                    DATA DAS AUDICÕES: 30/03/2025
+                    DATA DAS AUDIÇÕES: 30/03/2025
                 </p>
                 <p>
-                    HORÁRIO:11h
+                    HORÁRIO: 11h
                 </p>
                 <p>
                     ENDEREÇO: MUSIC BOX
