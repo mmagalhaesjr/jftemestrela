@@ -18,7 +18,7 @@ export default function Header(){
  
             <Link to={inst} target="_blank" rel="noreferrer" >
             <h1>
-                INSTAGRAN
+                INSTAGRAM
             </h1>
             </Link>
 

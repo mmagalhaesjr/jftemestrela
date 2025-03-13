@@ -14,6 +14,7 @@ justify-content: space-between;
 
 h1{
     font-size:1.5rem;
+    color: #ffffff;
 
     &:hover{
         color: ${verde};

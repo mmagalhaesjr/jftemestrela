@@ -20,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
         font-size: 100%;
         font: inherit;
         vertical-align: baseline;
-        color: #ffffff;
+     
        
        
     }
@@ -60,6 +60,7 @@ const GlobalStyle = createGlobalStyle`
         /* border: solid 5px #080808; */
         overflow: hidden;
         font-family: "Inter", sans-serif;
+
     }
 
     
