@@ -16,7 +16,7 @@ export default function Confirmacao() {
                 </p>
 
                 <p>
-                    DATA DAS AUDIÇÕES: 30/03/2025
+                    DATA DAS AUDIÇÕES: 13/04/2025
                 </p>
                 <p>
                     HORÁRIO: 11h
